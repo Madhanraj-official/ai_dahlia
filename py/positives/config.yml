@@ -1,0 +1,4 @@
+name: agalya
+epochs: 200
+train_path: /path/to/positive/examples
+test_path: /path/to/negative/examples
