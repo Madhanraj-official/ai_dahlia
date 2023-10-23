@@ -9,7 +9,7 @@ import pywhatkit as youtube
 
 
 
-key='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'
+key=''
 openai.api_key=key
 #user=b.hai()
 n=open('name.txt','r')
